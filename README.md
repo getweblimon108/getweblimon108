@@ -53,5 +53,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadahmed4526&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" height="160"/>
 
 ---
-
-✨ *“Code is not just logic, it’s creativity in motion.”* ✨  
+<p align = "center">✨ *“Code is not just logic, it’s creativity in motion.”* ✨ </p>
+ 
